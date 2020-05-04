@@ -7,6 +7,10 @@
 
 > hmsetex lua command for redis clients
 
+## DEPRECATED
+
+Since Redis 4.0.0, `hset` has become variadic, so use it instead
+
 ## hmsetex redis command
 
 Sets the value of a hash key and updates the expire date at the same time.
