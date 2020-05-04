@@ -1,5 +1,7 @@
 # redis-hmsetex
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/perrin4869/redis-hmsetex.svg)](https://greenkeeper.io/)
+
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Dependency Status][dependency-status-badge]][dependency-status]
